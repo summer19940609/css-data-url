@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.impowerBox .qrcode {
+    width: 100%;
+    border: 0;
+    margin-top: 0;
+}
+
+.impowerBox .info {
+    width: 100%;
+    margin-top: -7px;
+}
+
+.impowerBox .status {
+    background-color: #e6e6e6;
+    border: 1px solid #e6e6e6;
+    border-radius: 30px;
+    margin: 0 10px;
+}
+
+.impowerBox .title {
+    margin-top: 10px;
+}
+
+.impowerBox .status p {
+    font-size: 10px;
+}
+
+.impowerBox .status_txt {
+    font-size: 10px;
+}
+
+.status_icon.icon38_msg.succ {
+    background-size: 90%;
+    background-position-y: -31px;
+    width: 30px;
+    height: 30px;
+}
+
+.status_icon.icon38_msg.warn {
+    background-size: 90%;
+    background-position-y: -62px;
+    width: 30px;
+    height: 30px;
+}
+
+.impowerBox .wrp_code{
+    padding: 0 10px;
+}
